@@ -70,8 +70,8 @@ The goal is to understand the performance differences between ML and DL approach
 
 ### Clone the repository
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/Rajith-07/ECG-Based-Arrhythmia-Classification.git
+cd ECG-Based-Arrhythmia-Classification
 ```
 
 ### Install dependencies
